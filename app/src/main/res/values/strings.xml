@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula_0210</string>
+
+    <!-- Activity cadastrar aula -->
+    <string name="act_cad_aula">Tela Home</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+
+
+</resources>
